@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\SwitchingBranches.exe
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\SwitchingBranches.deps.json
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\SwitchingBranches.runtimeconfig.json
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\SwitchingBranches.runtimeconfig.dev.json
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\SwitchingBranches.dll
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\SwitchingBranches.pdb
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\SwitchingBranches.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\SwitchingBranches.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\SwitchingBranches.AssemblyInfo.cs
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\SwitchingBranches.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\SwitchingBranches.dll
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\SwitchingBranches.pdb
+C:\Users\owner\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\SwitchingBranches.genruntimeconfig.cache
