@@ -48,7 +48,7 @@ namespace ConsoleApp15
 
             Console.WriteLine("Hello Sir! It is June the 26th, 1945 today! The Current day of the week is " + day + " and it is 6:38 PM.");
             Console.ReadLine();
-
+            Console.WriteLine("Thanks M8!");
         }
     }
 }
